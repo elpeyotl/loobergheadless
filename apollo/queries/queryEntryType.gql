@@ -1,0 +1,9 @@
+query($section: [String]) {
+  entries(type: $section) {
+    id
+    title
+    dateCreated
+    dateUpdated
+    typeHandle
+  }
+}

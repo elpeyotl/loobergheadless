@@ -1,0 +1,9 @@
+{
+    entries {
+        id
+        title
+        dateCreated
+        dateUpdated
+        typeHandle
+    }
+ }
